@@ -1,0 +1,30 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  background: url('Assets/Banner3') center/cover no-repeat;
+  height: 100vh;
+}
+
+section {
+  padding: 60px 0;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-img-top{
+  height: 250px;
+}
+.card-text {
+  height: 100px;
+  overflow: auto;
+}
+footer p {
+  margin: 0;
+}
